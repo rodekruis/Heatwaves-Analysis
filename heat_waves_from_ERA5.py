@@ -75,8 +75,8 @@ figures_folder = '../figures/'
 # Define city and its coordinates
 
 city = 'Kampala'
-lat_city = 1.37
-lon_city = 32.29
+lat_city = 0.313611
+lon_city = 32.581111
 
 
 # Create file lists for temperature and dewpoint at 2 meters
